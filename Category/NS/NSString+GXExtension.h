@@ -12,5 +12,6 @@
 
 - (CGSize)sizeWithFont:(UIFont*)font maxWidth:(CGFloat)max;
 - (CGSize)sizeWithFont:(UIFont*)font;
+- (BOOL)isValidUrlPath;
 
 @end
